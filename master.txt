@@ -1,0 +1,1 @@
+Hello World, Working with notpad, git in preparation for Java programming masters
